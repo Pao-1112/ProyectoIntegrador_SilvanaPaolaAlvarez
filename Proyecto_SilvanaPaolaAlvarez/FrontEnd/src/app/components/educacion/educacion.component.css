@@ -1,0 +1,13 @@
+.row{
+    padding: 20px;
+    background-color:rgb(102, 52, 218);
+}
+#educacion{
+    color: rgb(247, 213, 64);
+}
+ul{
+    color:aliceblue;
+}
+li{
+    display: inline;
+}

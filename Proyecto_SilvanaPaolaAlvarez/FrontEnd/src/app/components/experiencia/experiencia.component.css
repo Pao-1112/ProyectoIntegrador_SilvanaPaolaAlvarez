@@ -1,0 +1,13 @@
+.row{
+    padding: 20px;
+    background-color:rgb(247, 64, 217);
+}
+#experiencia{
+    color: rgb(247, 213, 64);
+}
+ul{
+    color:aliceblue;
+}
+li{
+    display: inline;
+}

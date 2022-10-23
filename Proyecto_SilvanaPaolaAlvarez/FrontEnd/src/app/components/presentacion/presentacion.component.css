@@ -1,0 +1,31 @@
+.row{
+    padding: 25px;
+}
+div{
+    background-color: rgb(102, 52, 218);
+    text-align: center;
+}
+
+@media (min-width: 575px){
+    /**Estilo de la foto de perfil**/
+    #perfil{
+        width: 300px;
+        border-top-left-radius: 40px;
+        border-bottom-right-radius: 70px;
+        box-shadow: 5px 5px 5px gray;
+        top: 600px;
+        margin-top: 10px;
+    }
+
+}
+.profesion{
+    color:aliceblue;
+    font-weight: bold;
+    margin-top: 20px;
+}
+#presentacion{
+    color: rgb(247, 213, 64);
+}
+#parrafo{
+    color:aliceblue;
+}
